@@ -1,16 +1,13 @@
-## Hi there 👋
+# Razia-H | No-Code AI Automation Architect ⚡
 
-<!--
-**Razia-H/Razia-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build enterprise-grade, multi-agent AI pipelines that automate complex operational bottlenecks. By combining visual automation platforms with advanced language models, I deploy production-ready business solutions in days instead than months.
 
-Here are some ideas to get you started:
+## 🧰 Technical Ecosystem
+- **Orchestration:** Make.com | Zapier | n8n
+- **AI & Logic:** Anthropic Claude (API/OpenRouter) | OpenAI GPT-4o | Prompt Architecture
+- **Data & Interfaces:** Google Sheets | Airtable | Notion | Retool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Core Business Specializations
+- **Risk & Compliance:** Automated Vendor Risk Engines & ESG regulatory analysis.
+- **Legal Tech:** 4-agent pipelines for contract clause extraction and automated redlining.
+- **Market Intelligence:** Real-time competitive intelligence systems with automated threat scoring.
