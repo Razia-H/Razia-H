@@ -26,4 +26,4 @@ analysis against a user's health profile.
 - **Privacy-first architecture** — zero breach surface design for health and sensitive data
 
 ## 📬 Contact
-support@ingrai.app
+Razia.psm@gmail.com
