@@ -4,10 +4,11 @@ I build production-grade applications combining mobile, backend APIs, and AI pip
 I ship complete products — from React Native apps to FastAPI backends to multi-agent automation systems.
 
 ## 🚀 Featured Project
-### [IngrAI — Food Ingredient Scanner](https://github.com/Razia-H/ingrai)
+### IngrAI — Food Ingredient Scanner *(private repo — available on request)*
 A full-stack React Native app that scans food barcodes and delivers personalised ingredient 
 analysis against a user's health profile.
 - **Stack:** React Native (Expo) · TypeScript · FastAPI · Supabase · Groq LLM · Railway
+- **Live backend:** https://web-production-bab72.up.railway.app/health
 - **Architecture:** RAG pipeline · JWT auth · RLS · Sentry monitoring · GitHub Actions CI/CD
 - **Privacy-first:** All health data stored locally on device — zero server-side health data
 
