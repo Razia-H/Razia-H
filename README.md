@@ -43,6 +43,8 @@ A production data pipeline tracking social sentiment across 6 alcohol brands in 
 - **AI-powered APIs** — RAG pipelines, grounded LLM summaries, vector search
 - **Enterprise automation** — multi-agent pipelines for legal, compliance, and operations
 - **Privacy-first architecture** — zero breach surface design for health and sensitive data
+- **Data pipelines** — end to end ingestion, transformation with dbt, and vector search with Pinecone
+- - **MCP servers** — custom tools connecting Claude Desktop to enterprise data systems
 
 ## 📬 Contact
-Raziahakani@gmail.com
+Razia.psm@gmail.com
