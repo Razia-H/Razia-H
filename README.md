@@ -1,7 +1,6 @@
 # Razia H — AI-Powered Full-Stack Developer ⚡
 
-I build production-grade applications combining mobile, backend APIs, and AI pipelines. 
-I ship complete products — from React Native apps to FastAPI backends to multi-agent automation systems.
+I build production-grade applications across mobile, backend APIs, data pipelines, and AI systems. I design the architecture, ship the product and own the quality end to end.
 
 ## 🚀 Featured Project
 ### IngrAI — Food Ingredient Scanner *(private repo — available on request)*
