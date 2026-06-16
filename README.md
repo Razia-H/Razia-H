@@ -1,9 +1,9 @@
-# Razia H — AI-Powered Full-Stack Developer ⚡
+# Razia H - AI-Powered Full-Stack Developer ⚡
 
 I build production-grade applications across mobile, backend APIs, data pipelines, and AI systems. I design the architecture, ship the product and own the quality end to end.
 
 ## 🚀 Featured Project
-### IngrAI — Food Ingredient Scanner *(private repo — available on request)*
+### IngrAI - Food Ingredient Scanner *(private repo — available on request)*
 A full-stack React Native app that scans food barcodes and delivers personalised ingredient 
 analysis against a user's health profile.
 - **Stack:** React Native (Expo) · TypeScript · FastAPI · Supabase · Groq LLM · Railway
@@ -11,18 +11,18 @@ analysis against a user's health profile.
 - **Architecture:** RAG pipeline · JWT auth · RLS · Sentry monitoring · GitHub Actions CI/CD
 - **Privacy-first:** All health data stored locally on device — zero server-side health data
 
-### ProcureIQ MCP — Vendor Intelligence MCP Server
+### ProcureIQ MCP - Vendor Intelligence MCP Server
 An MCP server connecting Claude Desktop to enterprise vendor risk data via 6 AI-powered tools.
 - **Stack:** FastMCP · Pinecone · Gemini Embeddings · LangGraph · Groq · Supabase
 - **Capabilities:** RAG compliance analysis · Semantic vector search · Stateful risk delta agent · News intelligence
 
-### SpiritPulse — Alcohol Industry Social Analytics Pipeline
+### SpiritPulse - Alcohol Industry Social Analytics Pipeline
 A production data pipeline tracking social sentiment across 6 alcohol brands in real time.
 - **Stack:** Python · DLT · dbt · Railway Postgres · FastAPI · Pinecone · Gemini Embeddings
 - **Live:** https://spiritpulse-production.up.railway.app/dashboard
 - **Pipeline:** DLT ingestion → dbt transformation → FastAPI → Pinecone vector search
 
-### ESG Reporting Analyst — Multi-Agent AI Pipeline
+### ESG Reporting Analyst - Multi-Agent AI Pipeline
 4 Claude agents scoring supplier sustainability reports against GRI, TCFD, and CSRD in under 90 seconds.
 - **Stack:** Claude · Multi-agent orchestration · ESG framework analysis
 
